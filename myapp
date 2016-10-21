@@ -1,0 +1,5 @@
+
+1. 全局安装 npm install express-generator -g
+2. express myapp 创建基本架构目录和文件
+3. npm install 安装node需要的模块 node_module
+4. npm start 就可以运行创建的express基本框架了
